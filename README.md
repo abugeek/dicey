@@ -1,6 +1,6 @@
 # dicey
 
-A new Flutter project.
+Do you want to know your luck? Check it here. Try to get 12 in total and get your reward 😀.
 
 ## Getting Started
 
